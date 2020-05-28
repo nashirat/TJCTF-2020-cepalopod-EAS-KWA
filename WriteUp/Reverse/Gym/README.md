@@ -70,7 +70,7 @@ else {
 
 Bisa dilihat bahwa jika kita pilih 2, weight akan berkurang 1. Jika input kita tidak 2,  maka akan masuk ke else selanjutnya. Jika input kita 3, kurangi 2. Jika tidak, akan masuk ke else selanjutnya. Jika input tidak 4, counter akan naik 1.
 
-Saya lihat bahwa ada satu hal yang aneh dari loop ini, yaitu kita selalu mengurangi 3 jika kita melakukan 3.
+Saya lihat bahwa ada satu hal yang aneh dari loop ini, yaitu kita selalu mengurangi `2 + 3` jika kita melakukan 3.
 
 Setelah ini cukup simpel, tinggal lakukan `3 6 kali (6 * 5 = 30)` lalu lakukan `2 untuk menambah 1`.
 
