@@ -29,6 +29,6 @@ XOR dengan input. Value adalah ascii.
 
 Setelah mengulangi selama beberapa kali, didapatkan key `vsbb7`. Tinggal xor output 1 dengan `ASCII dari vsbb7` sampai habis.
 
-Setelah kira-kira 50% proses xor, saya baru sadar kalau flagnya bisa langsung didapat dengan cara `input1 ^ input2 ^ output2`
+
 
 Flag : `tjctf{th15_iS_r3Al_pY7h0n_y4y}`
