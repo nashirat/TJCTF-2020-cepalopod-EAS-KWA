@@ -12,7 +12,7 @@ Maksud dari soal adalah, dari 4 pilihan yang disediakan, kita harus bisa mendapa
 
 Melihat source code nya, ada 4 nilai yaitu `-1,-2,-3, dan -4`. Kita membutuhkan `31` untuk mencapai goal kitam padahal nilai terbesar hanya 4, sedangkan `4 x 7 = 28`.
 
-Export `gym` ke `gym.c` dengan menggunakan `hydra`. Dilihat dari fungsi ini :
+Export `gym` ke `gym.c` dengan menggunakan `ghidra`. Dilihat dari fungsi ini :
 
 ```c
     if (iVar1 == 2) {
