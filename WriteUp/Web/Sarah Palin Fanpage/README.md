@@ -9,7 +9,7 @@ Soal
  Website meminta 10 likes di halaman Top 10 Moments, tetapi akan ada notifikasi anti spam yang membuat kita hanya bisa melakukan 5 likes.
  
 Jika cek cookienya, kita akan dapatkan cookie value yang masih terenkripsi. Dekripsi menggunakan base64 decryptor atau [website ini](https://www.kirsle.net/wizards/flask-session.cgi).
-Akan menghasilkan sting JSON :
+Akan menghasilkan string JSON :
 
 `{"1":false,"2":false,"3":false,"4":false,"5":false,"6":false,"7":false,"8":false,"9":false,"10":false}`
 
